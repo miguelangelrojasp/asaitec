@@ -17,7 +17,7 @@ Project is created with:
 To run this project, install locally:
 * java jdk
 * maven
-* 
+ 
 $ cd ../asaitec
 $ mvn clean install 
-$ java -classpath D:\JOSUKE\cloud-native-spring-in-action-main\Chapter09\09-end\fruteriaApp\target\classes com.fruteria.CSVReaderInJava 
+$ java -classpath ..\fruteriaApp\target\classes com.fruteria.CSVReaderInJava 
